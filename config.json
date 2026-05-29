@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsptringify",
+        "uuid": 80556,
+        "checksum": "otkg0m"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
